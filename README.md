@@ -79,6 +79,17 @@ EUR/USD next-day return prediction on test set:
 
 **Engineering**: Modular Python design, data pipelines, model persistence, reproducible experiments
 
+## Example Images
+
+![Random Forest Cumulative Returns](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/Random_Forest_cumulative_returns.png)
+![Random Forest Feature Importance](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/Random_Forest_feature_importance.png)
+![Random Forest Predictions](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/Random_Forest_predictions.png)
+![Random Forest Price Predictions](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/Random_Forest_price_prediction.png)
+![Random Forest Residuals](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/Random_Forest_residuals.png)
+![Random Distribution](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/error_distribution.png)
+![Random Comparison](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/model_comparison.png)
+![Summary Report](https://github.com/michaeljf07/forex-predictor/blob/main/visualizations/summary_report.png)
+
 ## Disclaimer
 
 ⚠️ **Educational purposes only.** Do not use for actual trading. Forex trading involves substantial risk. Past performance ≠ future results. Consult a financial advisor before investing.
