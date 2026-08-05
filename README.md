@@ -59,16 +59,6 @@ python visualize_results.py   # Generate plots
 -   Cumulative returns (ML strategy vs buy-and-hold)
 -   Price forecast charts
 
-## Results
-
-EUR/USD next-day return prediction on test set:
-
-| Model             | RMSE   | MAE    | R²   |
-| ----------------- | ------ | ------ | ---- |
-| Random Forest     | 0.0035 | 0.0025 | 0.15 |
-| Gradient Boosting | 0.0036 | 0.0026 | 0.14 |
-| Ridge Regression  | 0.0037 | 0.0027 | 0.12 |
-
 **Top Features**: Recent returns, MA differences, RSI, cross-pair correlations
 
 ## What I Learned
